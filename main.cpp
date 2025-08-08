@@ -9,6 +9,9 @@ void quicksort(){
 void mergesort(){
     //
 }
+void insertionsort(){
+    //
+}
 int main(){
     cout<<" Hello "<<endl;
     cout<<" Edit "<<endl;
