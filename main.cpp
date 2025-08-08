@@ -6,6 +6,9 @@ void bubblesort(){
 void quicksort(){
     //
 }
+void mergesort(){
+    //
+}
 int main(){
     cout<<" Hello "<<endl;
     cout<<" Edit "<<endl;
